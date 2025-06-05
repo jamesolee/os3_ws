@@ -2,6 +2,9 @@
 build/*
 install/*
 
+# Bag files #
+bag_files/*
+*.db3
 
 # Compiled source #
 ###################
